@@ -14,6 +14,7 @@ You have been provided with a dataset called `schools.csv`, which is previewed b
 You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
 
 Solve the following Assignment:
+
 1.Which NYC schools have the best math results?
 
 The best math results are at least 80% of the *maximum possible score of 800* for math.  
